@@ -1,4 +1,4 @@
-from stochastic_models.gbm import GeometricBrownianMotion
+from build.lib.stochastic_models.gbm import GeometricBrownianMotion
 from statistics_utils import calculate_statistics, display_statistics, plot_simulation
 
 # Simulate using GBM
